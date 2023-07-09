@@ -3,6 +3,10 @@
 
 Este proyecto es una aplicación web que te permite crear, editar, marcar como lista y eliminar tareas. También proporciona una API para realizar estas operaciones. Puedes interactuar con la aplicación tanto desde la web como a través del API.
 
+<p align="center">
+  <img src="public/readme_img/captura_de_pantalla.png" width="600" title="hover text">
+</p>
+
 ## Instalación
 
 Sigue los pasos a continuación para instalar el proyecto utilizando Composer:
@@ -10,11 +14,11 @@ Sigue los pasos a continuación para instalar el proyecto utilizando Composer:
 1. Clona el repositorio en tu máquina local:
 
    ```shell
-   git clone https://github.com/tu-usuario/tu-proyecto.git
+   git clone https://github.com/benigno027/prueba_tigo.git
 
 2. Navega hasta el directorio del proyecto:
     ```shell
-    cd tu-proyecto
+    cd prueba_tigo
 
 3. Instala las dependencias del proyecto utilizando Composer:
     ```shell
